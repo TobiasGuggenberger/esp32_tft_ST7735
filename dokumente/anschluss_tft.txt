@@ -1,0 +1,9 @@
+PIN DISPLAY                 Farbe         ESP32
+1   GND                     grün          GND
+2   VCC                     blau          Vcc
+3   SCK SPI Clock           violett       18
+4   SDA SPI Data MOSI       grau          23
+5   RES Reset               weiss         4
+6   RS (RS/DC SPI signal)   schwarz       2
+7   CS                      braun         15
+8   LED DISPLAY             rot           Vcc
