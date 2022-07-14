@@ -1,0 +1,1 @@
+https://programmer.ink/think/color-setting-and-text-display-esp32-learning-tour-arduino-version.html#:~:text=And%20TFT_%20The%20color%20representation,primary%20color%20occupies%205%20bits.
